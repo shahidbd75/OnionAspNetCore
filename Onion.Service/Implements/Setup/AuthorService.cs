@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Onion.DAL.Interfaces.Base;
 using Onion.Entity.Setup;
-using Onion.Service.Base;
+using Onion.Service.Interfaces.Setup;
 
 namespace Onion.Service.Implements.Setup
 {
